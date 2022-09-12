@@ -1,8 +1,10 @@
 {
-  "name": "treejs-journey",
+  "name": "threejs-journey",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
   "private": true,
-  "workspaces": ["lessons/*"]
+  "workspaces": [
+    "lessons/*"
+  ]
 }
